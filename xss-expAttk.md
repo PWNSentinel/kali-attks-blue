@@ -1,5 +1,5 @@
 
-# 🔬 Web Application Assessment Experiments: Cross-Site Scripting (XSS) using Kali Linux
+# Web Application Assessment Experiments: Cross-Site Scripting (XSS) using Kali Linux
 
 This section of the ATTk repository contains **two detailed labs** to teach **Cross-Site Scripting (XSS)** assessment techniques using the **Kali Linux** platform. These exercises primarily use **XSStrike**, **Burp Suite**, and **Python scripting**, and demonstrate defense with **Content Security Policy (CSP)** headers.
 
