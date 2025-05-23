@@ -26,7 +26,7 @@ Reflected Cross-Site Scripting is a web vulnerability where malicious scripts ar
 
 Discover and exploit a **Reflected XSS** vulnerability in DVWA using **XSStrike** and **Burp Suite**, then apply a **CSP** to mitigate the attack.
 
-### 🧪 Environment Setup
+### Environment Setup
 
 1. **Clone and run DVWA in Docker**:
    ```bash
@@ -77,7 +77,7 @@ After submitting test payloads the server response gives a hint of the type of a
 
 ---
 
-### 💣 Step 3: Advanced Exploitation
+### 🕵️ Step 3: Advanced Exploitation
 
 More advanced payloads can be tested:
 
